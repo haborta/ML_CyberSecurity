@@ -1,6 +1,4 @@
 # Influence of Different Adversarial Benchmarks on Fake News Detection Model
-Model of fake news dectetion and attack it with textattack.
-Debug on win11 with cuda-11.2, tensenflow-2.10.1 and you can download all dependence on requirements.txt
 
 ## Dataset
 We use kaggle-fake-news and Liar,
